@@ -1,3 +1,3 @@
 # mine-demo
-this is my first git repo
-Author-Ahmed
+this is my first git Repo.<br>
+Author-Ahmed.
